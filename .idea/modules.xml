@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ANmap_Wrapper.iml" filepath="$PROJECT_DIR$/.idea/modules/ANmap_Wrapper.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ANmap_Wrapper.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ANmap_Wrapper.app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ANmap_Wrapper.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ANmap_Wrapper.app.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ANmap_Wrapper.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ANmap_Wrapper.app.main.iml" />
